@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.78bff216.chunk.css",
+    "main.js": "/Portfolio/static/js/main.d3c6b29e.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.d3c6b29e.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.2cba98d8.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.2cba98d8.js.map",
+    "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.498be07d.chunk.js": "/Portfolio/static/js/2.498be07d.chunk.js",
+    "static/js/2.498be07d.chunk.js.map": "/Portfolio/static/js/2.498be07d.chunk.js.map",
+    "static/js/3.41fee560.chunk.js": "/Portfolio/static/js/3.41fee560.chunk.js",
+    "static/js/3.41fee560.chunk.js.map": "/Portfolio/static/js/3.41fee560.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.78bff216.chunk.css.map": "/Portfolio/static/css/main.78bff216.chunk.css.map",
+    "static/js/2.498be07d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.498be07d.chunk.js.LICENSE.txt",
+    "static/media/Profile_pic.bcf18458.jpg": "/Portfolio/static/media/Profile_pic.bcf18458.jpg",
+    "static/media/amazon_clone.94e0b475.PNG": "/Portfolio/static/media/amazon_clone.94e0b475.PNG",
+    "static/media/index.css": "/Portfolio/static/media/bg_image.54815803.png",
+    "static/media/face_detection.44c3bef1.PNG": "/Portfolio/static/media/face_detection.44c3bef1.PNG",
+    "static/media/netflix.efe9fd11.PNG": "/Portfolio/static/media/netflix.efe9fd11.PNG",
+    "static/media/news_app.a18404af.PNG": "/Portfolio/static/media/news_app.a18404af.PNG",
+    "static/media/resume.4bdaff02.pdf": "/Portfolio/static/media/resume.4bdaff02.pdf",
+    "static/media/robo_friends.86bc59a0.PNG": "/Portfolio/static/media/robo_friends.86bc59a0.PNG",
+    "static/media/start_up.62a0dfb1.PNG": "/Portfolio/static/media/start_up.62a0dfb1.PNG",
+    "static/media/textutiles_app.87731ce5.PNG": "/Portfolio/static/media/textutiles_app.87731ce5.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cba98d8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.498be07d.chunk.js",
+    "static/css/main.78bff216.chunk.css",
+    "static/js/main.d3c6b29e.chunk.js"
+  ]
+}
