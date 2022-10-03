@@ -1,0 +1,69 @@
+.profile {
+    background-color: white;
+    border-radius: 6px;
+    width: 100%;
+    display: inline-block;
+}
+
+.profile__name {
+    line-height: 18px;
+    padding: 20px;
+}
+
+.profile__name .name {
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.profile__name .title {
+    margin-top: 2px;
+    margin-left: 2px;
+    font-size: 13px;
+    color: #777;
+    
+}
+
+.profile__image{
+    margin-top: -5px;
+    --webkit-clip-path: polygon(0 0%, 100% 0, 100% 94%, 0% 100%);
+    clip-path: polygon(0 9%, 100% 0, 100% 100%, 0% 100%);
+}
+
+.profile__image img{
+    width: 100%;
+    object-fit: contain;
+
+}
+
+/* information */
+.profile__information{
+    top: 0;
+    left: 0;
+    margin: -44px 10px 30px;
+}
+.timeline__content{
+    margin-top: 2px;
+    margin-bottom: 12px;
+}
+
+.profile .timelineItem__text{
+    font-size: 13px;
+    color: #787878;
+    font-weight: 400;
+}
+
+.timelineItem__text > span{
+    color: black;
+}
+
+.button__container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.button__container > a {
+    text-decoration: none;
+}

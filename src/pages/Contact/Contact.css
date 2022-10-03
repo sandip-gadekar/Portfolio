@@ -1,0 +1,23 @@
+.contact__form{
+    
+}
+
+.contactInfo__item{
+    font-size: 14px;
+    color: #787878;
+}
+
+.contactInfo__item > span {
+    color: black;
+    font-weight: 500;
+}
+
+.contactInfo__socialContainer{
+    margin-top: 25px;
+}
+
+.contactInfo__social > a > .MuiSvgIcon-root {
+    font-size: 16px;
+    margin-right: 10px;
+    color: black;
+}

@@ -1,0 +1,131 @@
+/* About ME */
+.section__title > h6 {
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    margin: 0;
+}
+
+.section__title > span{
+    position: absolute;
+    height: 7px;
+    width: 100%;
+    bottom: 0;
+    opacity: 0.4;
+    left: 0;
+    background-color: var(--component-color);
+    
+}
+
+.aboutme__text {
+    margin-left: 2% !important;
+    color: darkslategray;
+    line-height: 22px !important;
+    white-space: pre-line;
+    text-align: justify;
+    font-size: 1rem !important;
+}
+
+/* timeline section */
+.resume__timeline .timeline__content .timeline__title{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.resume__timeline .timeline__content .timeline__course{
+    font-size: 13px;
+    color: darkslategray;
+    margin-top: 5px;
+}
+.resume__timeline .timeline__content .timeline__date {
+    font-size: 12px;
+    color: gray;
+    margin-top: 4px;
+}
+
+.resume__timeline .timeline__content .timeline__description {
+    color: gray;
+    font-size: small;
+    margin-top: 4px;
+}
+
+
+/* services */
+.service {
+    height: 100%;
+    text-align: center;
+}
+
+.service .service__title {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 35px;
+    text-align: center;
+}
+
+.service .service__description {
+    margin-top: 4px;
+    border-color: var(--component-color) !important;
+    /* margin-right: 5px; */
+    text-align: center;
+}
+
+.service__icon > .MuiSvgIcon-root {
+    font-size: 40px;
+    margin-left: 0;
+    font-weight: 300;
+    color: darkslategray;
+}
+
+
+/* skills */
+.skill {
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08);
+    min-height: 186px;
+    height: 100%;
+}
+
+.skill .skill__title {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 35px;
+}
+
+.skill .skill__description {
+display: flex;
+align-items: center;
+color: #989898;
+font-weight: 400;
+line-height: 18px;
+}
+
+.skill .skill__description .timeline__dot {
+border-color: var(--component-color);
+padding: 2px;
+margin-right: 5px;
+}
+
+.space{
+    margin-right: 50px;
+}
+
+.service2{
+    font-weight: 400;
+}
+.service2 .service__title2 {
+    display: flex;
+    align-items: center;
+    color: darkslategray;
+}
+
+ .service2 .service__title2 .timeline__dot2 {
+    border-color: var(--component-color);
+    padding: 2px;
+    margin-right: 5px;
+}
+
+.hobbies {
+    
+}
