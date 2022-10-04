@@ -146,7 +146,7 @@ let data = {
     {
       tag: "React",
       title: "Text-Utiles",
-      caption: "News app using news API, Currently API key is not working",
+      caption: "Text utiles app",
       image: textutiles_app,
       thumb: textutiles_app,
       description:
